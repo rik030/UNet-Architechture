@@ -4,8 +4,13 @@ This repository consist of UNet Architechture Deep Learning Framework for medica
 Kindly go thorough this paper: https://arxiv.org/abs/1505.04597
 
 In the code:
+
 data.py: Code for data preprocessing
+
 metrics.py: Code consisting of various metrics of evaluation
+
 model.py: Code consisting of model architecture
+
 train.py: Code for training the model
+
 eval.py: Code for evaluating and generate predictions
